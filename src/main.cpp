@@ -26,7 +26,10 @@ int main()
     cout << "var7 ocupa :" << sizeof(var7) << " bytes " << endl;
     cout << "var8 ocupa :" << sizeof(var8) << " bytes " << endl;
 
+    bool state{false}; // declarte and initialize
+    state = true;
 
+    
 
 
     return 0;
